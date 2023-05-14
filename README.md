@@ -25,4 +25,6 @@
 | --- | --- | --- | --- |
 
 ## Python 
-*coming soon*
+| Project Name | Description | Function | Link |
+| --- | --- | --- | ---|
+| Webscrapping Project | Practicing Web scraping | BeautifulSoup, openpyxl, requests, writer | |
