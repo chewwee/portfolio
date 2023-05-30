@@ -28,3 +28,4 @@
 | Project Name | Description | Function | Link |
 | --- | --- | --- | ---|
 | Webscrapping Project | Practicing Web scraping | BeautifulSoup, openpyxl, requests, writer | |
+| Data Science Salaries 2023 | Data Cleaning, Analysis & Visualization |||
