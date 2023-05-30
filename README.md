@@ -4,7 +4,7 @@
 - SQL
 - Tableau
 - Power BI
-- Python  (*coming soon*)
+- Python
 
 ## SQL
 | Project Name | Description | Function | Link |
