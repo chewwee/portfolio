@@ -28,4 +28,5 @@
 | Project Name | Description | Function | Link |
 | --- | --- | --- | ---|
 | Webscrapping Project | Practicing Web scraping | BeautifulSoup, openpyxl, requests, writer | |
-| Data Science Salaries 2023 | Data Cleaning, Analysis & Visualization ||[Link](https://github.com/chewwee/PythonProject/blob/1d7b94bba30135e40979b14ec1b37a60cb6616c1/Data%20Science%20Salaries%202023%20Analysis.ipynb)|
+| Data Science Salaries 2023 | Data Cleaning, Analysis & Visualization |Pandas, Seaborn, Matplotlib |[Link](https://github.com/chewwee/PythonProject/blob/1d7b94bba30135e40979b14ec1b37a60cb6616c1/Data%20Science%20Salaries%202023%20Analysis.ipynb)|
+| Customer Acquisition | Data Cleaning, Analysis & Visualization | Pandas, Plotly ||
