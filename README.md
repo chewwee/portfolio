@@ -23,7 +23,7 @@
 ## Power BI
 | Project Name | Description | Function | Link |
 | --- | --- | --- | --- |
-| HR Analytics | Data Visualization | |
+| HR Analytics | Data Visualization | | [Link](https://github.com/chewwee/PowerBI/blob/e02bebe0507c0f7f89dab1bb2b32c8d1d32b78d7/HR%20Analytics.pbix)
 
 ## Python 
 | Project Name | Description | Function | Link |
