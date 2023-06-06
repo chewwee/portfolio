@@ -22,7 +22,7 @@
 
 ## Power BI
 | Project Name | Description | Function | Link |
-| --- | --- | --- | --- |
+| HR Analytics | Data Visualization | --- | --- |
 
 ## Python 
 | Project Name | Description | Function | Link |
