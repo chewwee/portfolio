@@ -11,7 +11,6 @@
 | --- | --- | --- | ---|
 | SQL Practice | Practicing and solving SQL query in [sql-practice](https://www.sql-practice.com/) | Basic SQL Function, Aggregation, Subquery, Joins, CTE , String Functions, Window Functions | |
 | SQL Zoo | Practicing and solving SQL query in the [sql-zoo](https://sqlzoo.net/wiki/SQL_Tutorial)| Basic SQL Function, Aggregation, Subquery, Joins, CTE , String Functions, Window Functions | |
-| Hackerrank | | |
 | 8 Week SQL Challenge | | |
 
 ## Tableau
